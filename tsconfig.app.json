@@ -25,5 +25,5 @@
     /* Additional Options */
     "types": ["vitest"]
   },
-  "include": ["src", "src/**/*.test.ts"]
+  "include": ["src", "src/**/*.test.ts", "styled-system"]
 }
